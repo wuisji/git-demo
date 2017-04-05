@@ -1,3 +1,5 @@
 ie=1
-pring ie
+
 a = 1
+b = 2
+c = b
