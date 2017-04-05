@@ -1,5 +1,4 @@
 ie=1
-
+pring ie
 a = 1
-b = 2
-c = b
+# I went back to cheng 1
