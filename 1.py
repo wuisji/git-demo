@@ -11,3 +11,11 @@ a = 1
 # I was changed in dev bareg
 # ttyyuuu
 
+11
+2
+2
+2
+2
+2
+
+
